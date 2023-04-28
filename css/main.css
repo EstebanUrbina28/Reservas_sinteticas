@@ -1,0 +1,157 @@
+body{
+   background-image: url('../images/fondo.jpg');
+   background-position: center;
+   font-family: "Helvetica"; 
+   background-size: 100%;
+  
+}
+.fecha{
+   color: #ffffff  
+    
+        
+}
+.full-width-testimonial-source{
+    background-color: #ffffff  
+}
+.news-image-gallery-container {
+    background-color: #edf1f1e0
+     
+}
+.full-width-testimonial{
+    background-color: #17252c;  
+    border-radius: 80px;
+    color: #ffffff;
+    
+    
+}
+
+.social-links{
+    border-radius: 50px
+    
+}
+.news-image-gallery-container{
+    border-radius: 50px
+    
+
+}
+.orbit-image{    
+    display: inline-block; /*Se muestra bloques con salto de linea*/
+    border-radius: 50px;   
+     margin: auto; /*centrado automatico*/
+     width: 100%;
+     height: 500px;
+     object-fit: cover;   
+    box-shadow: 50px 50px 50px rgba(20, 65, 19, 0.425);
+}
+.orbit-caption{
+    margin: auto;
+    border-radius: 50px;
+    object-fit: cover; 
+    
+}
+/*Pagina index principal aqui termina*/
+
+.form-registration{
+    border-radius: 50px;
+    color: #0a0044;
+    background-color:#0d4e1d2c;  
+    font-family: "Helvetica"; 
+         
+}
+.h3{
+    text-align: center;
+    color: #000000a6;
+    border-radius: 200px;
+    font-family: "Helvetica"; 
+}
+.img{
+    border-radius: 100px;   
+     margin: auto; /*centrado automatico*/     
+     object-fit: cover;   
+    box-shadow: 10px 10px 10px  #0a0044a6;
+}
+
+/*Pagina logi principal aqui termina*/
+
+.input-group{
+    border-radius: 80px;
+    box-shadow: 10px 10px 10px  #0a0044a6;  
+    
+}
+.form-icons{
+    border-radius: 80px;   
+    color: #0a0044;    
+    font-family: "Helvetica"; 
+
+}
+.reg{
+    border-radius: 50px;
+    text-align: center;
+    background-color:  #1779ba;
+    color: white;
+}
+.button{
+    border-radius: 50px;
+}
+/*Pagina registrar principal aqui termina*/ 
+.top-bar{
+    border-radius: 100px;
+}
+.canchas{
+    color: #000000;
+}
+/*Pagina menu principal aqui termina*/ 
+.tag-cloud-section{
+    background-color: #17252c;  
+    font-family: "Helvetica"; 
+    border-radius: 100px; 
+
+/*Pagina administracion aqui termina*/      
+}
+.texto{
+  
+    color: #ffffff;
+    font-family: "Helvetica";
+    font-size: 17px;      
+}
+.radio{
+    border-radius: 80px;
+    box-shadow: 5px 5px 5px  #fcfbff;
+}
+.h3{
+    color: #f8f8f8;  
+}
+.text_inicio{
+    color: #0f0f0f;
+    font-family: "Helvetica";   
+}
+thead{
+    border-radius: 200px;
+    color: #e6e6e6;
+    background-color: #000000;
+  
+}
+/*MAPA*/
+iframe{
+    border: #0a0044;
+    border-radius: 40px;
+    background-color: #d6d3d3;
+    box-shadow: 5px 5px 5px  #161616;
+    background-size: 50%;
+}
+.mapa{
+    background-size: 50%;
+}
+.view-more-people{
+    background-color: #d6d3d3;
+    border-radius: 20px;
+    color: #e6e6e6;
+    font-family: "Helvetica"; 
+}
+
+
+
+
+   
+
+
